@@ -1,3 +1,5 @@
 # Hello there!
 
 I'm just adding some text here...
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
